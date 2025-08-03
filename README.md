@@ -47,7 +47,8 @@ Visualizing route and anomalies
 
  Output Screenshot
  Screenshot Path in Repo:
-Screenshot 2025-08-03 174337.png
+![Output Screenshot](Screenshot%202025-08-03%20174337.png)
+
 
 
  OpenSky API
